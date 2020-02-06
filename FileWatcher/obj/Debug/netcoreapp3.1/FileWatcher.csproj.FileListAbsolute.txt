@@ -1,0 +1,11 @@
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher.deps.json
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher.runtimeconfig.json
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher.runtimeconfig.dev.json
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher.dll
+/home/andrei/Workspace/fileWatcher/FileWatcher/bin/Debug/netcoreapp3.1/FileWatcher.pdb
+/home/andrei/Workspace/fileWatcher/FileWatcher/obj/Debug/netcoreapp3.1/FileWatcher.csprojAssemblyReference.cache
+/home/andrei/Workspace/fileWatcher/FileWatcher/obj/Debug/netcoreapp3.1/FileWatcher.AssemblyInfoInputs.cache
+/home/andrei/Workspace/fileWatcher/FileWatcher/obj/Debug/netcoreapp3.1/FileWatcher.AssemblyInfo.cs
+/home/andrei/Workspace/fileWatcher/FileWatcher/obj/Debug/netcoreapp3.1/FileWatcher.dll
+/home/andrei/Workspace/fileWatcher/FileWatcher/obj/Debug/netcoreapp3.1/FileWatcher.pdb
